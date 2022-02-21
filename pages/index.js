@@ -12,9 +12,11 @@ export default function Home() {
 
       <main>
         <Header title="This is the development test of files" />
-        <p className="description">
-          Some fucking text for it to make sense! Now, I have to install Tailwind css next. Let's see
+        <p className="p-10 font-light">
+          Some fucking text for it to make sense! Now, I have to install Tailwind css next. Let's see. <br />
+          Done! TailwindCSS is on. After version 3.0 it was updated to JIT, so it's fully on!.
         </p>
+        
       </main>
 
       <Footer />
