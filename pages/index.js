@@ -6,14 +6,14 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Next.js Starter!</title>
+        <title>ALEJANDRO SETA | Home</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="This is the development test of files" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          Some fucking text for it to make sense! Now, I have to install Tailwind css next. Let's see
         </p>
       </main>
 
